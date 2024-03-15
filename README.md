@@ -44,8 +44,10 @@ npm start
 5. Open in Browser:
 Open your web browser and visit http://localhost:3000 to play the game.
 
-## Demo
+6. **DEPLOYMENT**: [Link to deployed project](https://flappy-bird-0r10.onrender.com/)
 
+
+## Demo
 
 [demo.webm](https://github.com/DheerajKandoor/flappy-bird/assets/92793181/8f929d0f-0b32-4520-9a14-d7f398786c8a)
 
