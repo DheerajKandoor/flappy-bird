@@ -16,7 +16,6 @@ Welcome to the Flappy Bird Game repository! This project is a simple implementat
 3. Game Over:
 
     The game ends when the bird collides with a pipe or the ground.
-## Demo
 
 
 
@@ -38,6 +37,11 @@ cd flappy-bird
 npm install
 
 ```
+## Demo
+
+
+[demo.webm](https://github.com/DheerajKandoor/flappy-bird/assets/92793181/8f929d0f-0b32-4520-9a14-d7f398786c8a)
+
 4. Start the Game:
 ```bash
 npm start
