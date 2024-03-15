@@ -37,14 +37,16 @@ cd flappy-bird
 npm install
 
 ```
-## Demo
-
-
-[demo.webm](https://github.com/DheerajKandoor/flappy-bird/assets/92793181/8f929d0f-0b32-4520-9a14-d7f398786c8a)
-
 4. Start the Game:
 ```bash
 npm start
 ```
 5. Open in Browser:
 Open your web browser and visit http://localhost:3000 to play the game.
+
+## Demo
+
+
+[demo.webm](https://github.com/DheerajKandoor/flappy-bird/assets/92793181/8f929d0f-0b32-4520-9a14-d7f398786c8a)
+
+
